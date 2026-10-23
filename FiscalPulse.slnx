@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/api/" />
+  <Folder Name="/api/src/">
+    <Project Path="api/src/FiscalPulse.Api.csproj" />
+  </Folder>
+  <Folder Name="/api/tests/">
+    <Project Path="api/tests/FiscalPulse.Api.Tests.csproj" />
+  </Folder>
+</Solution>

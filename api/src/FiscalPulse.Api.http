@@ -1,0 +1,6 @@
+@FiscalPulse.Api_HostAddress = http://localhost:5133
+
+GET {{FiscalPulse.Api_HostAddress}}/health
+Accept: application/json
+
+###
